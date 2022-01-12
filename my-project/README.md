@@ -1,3 +1,16 @@
+### `npm start`
+
+「npm start」を使用し実行することで、[http://localhost:3000]で画面が表示される。
+
+### `VSCODEの設定`
+
+【設定】
+・Format On Save を On にする。
+
+【拡張機能】
+・Prettier
+・ESLint
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
